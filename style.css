@@ -1,5 +1,7 @@
 body {
     color: black;
+    background-color: #ECE6DC;
+
 }
 
 img {
@@ -40,6 +42,7 @@ img {
     border-style: outset;
     border-width: medium;
     border-radius: 1rem;
+    border-color: #311A09;
     padding: .5vh 0;
     margin: .5vh 0;
     font-size: min(4vmin, 1rem);
