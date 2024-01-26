@@ -33,7 +33,7 @@ img {
 .items {
     padding: 1vh 0vw;
     margin: 0 1vw 0 1vw;
-    width: 98vw;
+    width: 99vw;
 }
 
 .item {
@@ -72,6 +72,14 @@ img {
 .btn {
     width: fit-content;
 }
-.bg-primary{
-    background-color: #311A09;
+
+.btn-primary {
+    --bs-btn-bg: #C1A070;
+    --bs-btn-border-color: #C1A070;
+    --bs-btn-hover-bg: #4D3B27;
+    --bs-btn-hover-border-color: #4D3B27;
+    --bs-btn-active-bg: #311A09;
+    --bs-btn-active-border-color: #311A09;
+    --bs-btn-disabled-bg: #fff;
+    --bs-btn-disabled-border-color: #fff;
 }
